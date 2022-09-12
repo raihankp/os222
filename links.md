@@ -13,7 +13,7 @@ permalink: LINKS/
 # LINKS
 
 1. [Google](https://www.google.com/)<br>
-Google is one of the most useful website in the internet. We can search something we don't know and Google will always have the answers we're loking for.
+Google is one of the most useful website in the internet. We can search something we don't know and Google will always have the answers we're looking for.
 
 2. [YouTube](https://www.youtube.com/)<br>
 YouTube is the website where videos are uploaded. We can search all kind of videos there, especially in education.
