@@ -12,6 +12,8 @@ permalink: LINKS/
 
 # LINKS
 
+### Week 01
+
 1. [Google](https://www.google.com/)<br>
 Google is one of the most useful website in the internet. We can search something we don't know and Google will always have the answers we're looking for.
 
@@ -20,6 +22,14 @@ YouTube is the website where videos are uploaded. We can search all kind of vide
 
 3. [Cambridge Dictionary](https://dictionary.cambridge.org/)<br>
 Cambridge Dictionary is your best friend when it comes to writing paper. It will help us in explaining vocabulary that we don't know and also how the vocabulary is used in sentences.  
+
+### Week 02
+
+1. [Udemy](https://www.udemy.com/)<br>
+Udemy is one of my favorite website if i want to learn something new. It offers a lot of courses in many aspect.
+
+2. [Coursera](https://www.coursera.org/)<br>
+Coursera is a lot more serious than Udemy. The publisher of the courses is from a big company, university, and much more. Even though it's more pricey than Udemy, the courses are still worth it.
 
 <br>
 <hr>
