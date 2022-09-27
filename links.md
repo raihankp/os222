@@ -31,6 +31,11 @@ Udemy is one of my favorite website if i want to learn something new. It offers 
 2. [Coursera](https://www.coursera.org/)<br>
 Coursera is a lot more serious than Udemy. The publisher of the courses is from a big company, university, and much more. Even though it's more pricey than Udemy, the courses are still worth it.
 
+### Week 03
+
+1. [Research Gate](https://www.researchgate.net/)<br>
+Research Gate is a free platform that gives a lot of publications made by scientist and many more. It helps me if i want to find some paper to do my homework.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Raihan Kus Putranto --- Version: {{ site.version }}.
