@@ -36,6 +36,12 @@ Coursera is a lot more serious than Udemy. The publisher of the courses is from 
 1. [Research Gate](https://www.researchgate.net/)<br>
 Research Gate is a free platform that gives a lot of publications made by scientist and many more. It helps me if i want to find some paper to do my homework.
 
+### Week 04
+
+1. [Notion](https://www.notion.so/)<br>
+Notion is an online platform that gives you the possibility to have an online workspace with your friends. You can write a diary, school notes, assignments, and many more. This platform already helps me to organize all my notes since 2020.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Raihan Kus Putranto --- Version: {{ site.version }}.
