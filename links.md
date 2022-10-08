@@ -41,6 +41,9 @@ Research Gate is a free platform that gives a lot of publications made by scient
 1. [Notion](https://www.notion.so/)<br>
 Notion is an online platform that gives you the possibility to have an online workspace with your friends. You can write a diary, school notes, assignments, and many more. This platform already helps me to organize all my notes since 2020.
 
+### Week 05
+1. [Linux Command](https://www.javatpoint.com/linux-commands)<br>
+Linux command is one of the most important thing if you want to learn linux. It'll give you some basic ideas on how to operate linux terminal.
 
 <br>
 <hr>
