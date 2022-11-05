@@ -45,6 +45,10 @@ Notion is an online platform that gives you the possibility to have an online wo
 1. [Linux Command](https://www.javatpoint.com/linux-commands)<br>
 Linux command is one of the most important thing if you want to learn linux. It'll give you some basic ideas on how to operate linux terminal.
 
+### Week 06
+1. [Stack Overflow](https://stackoverflow.com/)<br>
+Stack Overflow is probably every programmer's best friend. You can almost find every answers to the questions you want to ask. It helps us when we got stuck while solving a problem.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Raihan Kus Putranto --- Version: {{ site.version }}.
