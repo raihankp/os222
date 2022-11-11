@@ -49,6 +49,10 @@ Linux command is one of the most important thing if you want to learn linux. It'
 1. [Stack Overflow](https://stackoverflow.com/)<br>
 Stack Overflow is probably every programmer's best friend. You can almost find every answers to the questions you want to ask. It helps us when we got stuck while solving a problem.
 
+## Week 07
+1. [Bash scripting cheatsheet](https://devhints.io/bash)<br>
+Cheat Sheet for bash scripting
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Raihan Kus Putranto --- Version: {{ site.version }}.
